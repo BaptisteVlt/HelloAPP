@@ -5,3 +5,6 @@ J'ai également réalisé une pull request pour le changement du message.
 J'ai créé une pipeline qui s'exécute avant chaque merge et qui checkera le code.
 Nom de la pipeline : Explore Github Actions
 Test pull
+Test de git hub action et de node.js
+Création d'une branche de sécurité.
+
